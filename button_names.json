@@ -1,6 +1,6 @@
 {
-    "button_1": "switch 1 - SA_003 ",
-    "button_2": "switch 2 - Ledvance ",
-    "button_3": "Philips Hue ",
-    "button_4": "IKEA TRADFRI - bulb "
+    "button_1": " switch 1 - SA_003 ",
+    "button_2": "Podaj warto\u015b\u0107 dla button_2: switch 2 - Ledvance ",
+    "button_3": "Podaj warto\u015b\u0107 dla button_3: Philips Hue ",
+    "button_4": "Podaj warto\u015b\u0107 dla button_4: IKEA TRADFRI - bulb & C:/Users/glemi/AppData/Local/Programs/Python/Python311/python.exe \"c:/Users/glemi/Desktop/github json/upload_json_to_github.py\""
 }
